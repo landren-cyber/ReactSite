@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/ReactSite/static/css/main.5739ad41.chunk.css",
-    "main.js": "/ReactSite/static/js/main.9f026793.chunk.js",
-    "main.js.map": "/ReactSite/static/js/main.9f026793.chunk.js.map",
-    "runtime-main.js": "/ReactSite/static/js/runtime-main.e10b5b0d.js",
-    "runtime-main.js.map": "/ReactSite/static/js/runtime-main.e10b5b0d.js.map",
+    "main.js": "/ReactSite/static/js/main.99a3842d.chunk.js",
+    "main.js.map": "/ReactSite/static/js/main.99a3842d.chunk.js.map",
+    "runtime-main.js": "/ReactSite/static/js/runtime-main.97b5dd16.js",
+    "runtime-main.js.map": "/ReactSite/static/js/runtime-main.97b5dd16.js.map",
     "static/css/2.da1eef19.chunk.css": "/ReactSite/static/css/2.da1eef19.chunk.css",
-    "static/js/2.2fdd11ad.chunk.js": "/ReactSite/static/js/2.2fdd11ad.chunk.js",
-    "static/js/2.2fdd11ad.chunk.js.map": "/ReactSite/static/js/2.2fdd11ad.chunk.js.map",
-    "static/js/3.9778503e.chunk.js": "/ReactSite/static/js/3.9778503e.chunk.js",
-    "static/js/3.9778503e.chunk.js.map": "/ReactSite/static/js/3.9778503e.chunk.js.map",
+    "static/js/2.8e2ad4b3.chunk.js": "/ReactSite/static/js/2.8e2ad4b3.chunk.js",
+    "static/js/2.8e2ad4b3.chunk.js.map": "/ReactSite/static/js/2.8e2ad4b3.chunk.js.map",
+    "static/js/3.d49366f1.chunk.js": "/ReactSite/static/js/3.d49366f1.chunk.js",
+    "static/js/3.d49366f1.chunk.js.map": "/ReactSite/static/js/3.d49366f1.chunk.js.map",
     "index.html": "/ReactSite/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/ReactSite/static/css/2.da1eef19.chunk.css.map",
     "static/css/main.5739ad41.chunk.css.map": "/ReactSite/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.2fdd11ad.chunk.js.LICENSE.txt": "/ReactSite/static/js/2.2fdd11ad.chunk.js.LICENSE.txt",
+    "static/js/2.8e2ad4b3.chunk.js.LICENSE.txt": "/ReactSite/static/js/2.8e2ad4b3.chunk.js.LICENSE.txt",
     "static/media/2004161.10f8823d.jpg": "/ReactSite/static/media/2004161.10f8823d.jpg",
     "static/media/3260626.59b5684d.jpg": "/ReactSite/static/media/3260626.59b5684d.jpg",
-    "static/media/logo2306.abfba5b3.png": "/ReactSite/static/media/logo2306.abfba5b3.png"
+    "static/media/logo.6ce24c58.svg": "/ReactSite/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e10b5b0d.js",
+    "static/js/runtime-main.97b5dd16.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.2fdd11ad.chunk.js",
+    "static/js/2.8e2ad4b3.chunk.js",
     "static/css/main.5739ad41.chunk.css",
-    "static/js/main.9f026793.chunk.js"
+    "static/js/main.99a3842d.chunk.js"
   ]
 }
